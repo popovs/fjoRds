@@ -16,4 +16,8 @@ knitr::opts_chunk$set(
 
 ```{r setup}
 library(fjoRds)
+
+fjord_finder("Sognefjord")
+fjord_finder("Princess Louisa Sound")
+fjord_finder("Illulissat")
 ```
