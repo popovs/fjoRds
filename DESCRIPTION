@@ -1,0 +1,24 @@
+Package: fjoRds
+Title: A Package To Show How To Create Packages
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sarah", 
+           family = "Popov", 
+           email = "sarah.popov@mail.mcgill.ca", 
+           role = c("aut", "cre")) 
+Description: A package created for the Bergen R Ladies workshop that helps us find fjords.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Imports: 
+    glue
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Config/testthat/edition: 3
