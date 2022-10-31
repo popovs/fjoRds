@@ -1,5 +1,5 @@
 
-# fjoRds
+# fjoRds <img src="man/figures/logo.png" align="right" height="104" />
 
 <!-- badges: start -->
 <!-- badges: end -->

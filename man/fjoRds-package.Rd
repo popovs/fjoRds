@@ -8,6 +8,14 @@
 \description{
 A package created for the Bergen R Ladies workshop that helps us find fjords.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/popovs/fjoRds}
+  \item Report bugs at \url{https://github.com/popovs/fjoRds/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Sarah Popov \email{sarah.popov@mail.mcgill.ca}
 
